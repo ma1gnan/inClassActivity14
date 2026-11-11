@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "559548171830",
+    "project_id": "campus-products-dml13",
+    "storage_bucket": "campus-products-dml13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559548171830:android:de4304ed516871472fba97",
+        "android_client_info": {
+          "package_name": "com.example.cloud_courier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBkVKWKx6_0a35uQ9Mq-tiGwRTQq9lrT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559548171830:android:3818f0229b4883d52fba97",
+        "android_client_info": {
+          "package_name": "com.example.firebase_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBkVKWKx6_0a35uQ9Mq-tiGwRTQq9lrT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
